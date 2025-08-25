@@ -1,3 +1,4 @@
-# LitePoseFormer
+# LitePoseFormer: A Lightweight Transformer Method for 3D Human Pose Estimation
 
-We will release our code in the near future.
+This repository is the offical Pytorch implementation of LitePoseFormer: A Lightweight Transformer Method for 3D Human Pose Estimation.
+
